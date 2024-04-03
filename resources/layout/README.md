@@ -3,7 +3,7 @@
 ![Login page](/resources/layout/Image/Login_page.jpg)
 
 ## • Registration page
-![Registration page](/resources/layout/Image/)
+![Registration page](/resources/layout/Image/Registr_page.png)
 
 ## • Main page
 ![Main page](/resources/layout/Image/)
